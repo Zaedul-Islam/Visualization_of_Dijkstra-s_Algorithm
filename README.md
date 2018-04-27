@@ -1,3 +1,6 @@
+# A Computer Graphics Project
+
+
 # Project Title: Visualization of Dijkstra’s Algorithm (Single-Source Shortest Path) through animation.
 *NOTE: Animation isn't completed yet.
 
